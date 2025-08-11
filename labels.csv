@@ -1,0 +1,51 @@
+ClassId,Name
+0,Speed limit (20km/h)
+1,Speed limit (30km/h)
+2,Speed limit (50km/h)
+3,Speed limit (60km/h)
+4,Speed limit (70km/h)
+5,Speed limit (80km/h)
+6,End of speed limit
+7,speed limit (100km/h)
+8,speed limit (120km/h)
+9,No Overtaking
+10,No overtaking for trucks
+11,Crossroad Ahead
+12,Priority Road
+13,Give Way
+14,Stop
+15,No entry for all vehicles
+16,No entry for trucks
+17,No Entry
+18,Danger Ahead
+19,Dangerous curve to the left
+20,Dangerous curve to the right
+21,ZigZag Curve
+22,Speed Breaker Ahead
+23,Slippery road ahead
+24,Road narrows on the right side.
+25,Under Construction
+26,Traffic signals aheads
+27,Zebra Crossing
+28,Children crossing
+29,Bicycles crossing
+30,Bicycles crossing
+31,Wild animals crossing
+32,Other Danger
+33,Go right
+34,Go Left
+35,Go Straight
+36,Go right or straight
+37,Go left or straight
+38,Pass on the right
+39,Pass on the left
+40,Roundabout mandatory
+41,End of no-overtaking zone
+42,End of no-overtaking for trucks
+47,Train Crossing
+48,Under Construction
+50,Fences
+51,Heavy Vehicle Accidents
+53,Give Way
+54,No stopping
+55,No entry
